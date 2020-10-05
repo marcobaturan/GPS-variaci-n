@@ -1,5 +1,7 @@
 # GPS-variación
 
+# GPS-variación
+
 Esté scrip es una variante en Python3.7 del primer programa de inteligencia artificial simbólica GPS o 'General Problem Solver'.
 Enlace: {https://es.wikipedia.org/wiki/General_Problem_Solver}
 El proceso implica un estado inicial y uno final. Y entre medias se desglosa la situación en operaciones que poseen unas
@@ -16,4 +18,3 @@ sería tal que entonces jamas terminaría su tarea en el mundo real. A parte de 
 computador. Porque el cerebro no computa, almacena patrones jerarquicos de grupos de patrones en redes discriminadoras y
 conductistas reversibles. Por lo cual se optimiza y automatiza en base a memorizar un aprendizaje pero no computa
 cada paso que da.
-
